@@ -30,5 +30,5 @@ Here are some ideas to get you started:
    <a href="mailto: off.fattah@gmail.com"><img src="https://camo.githubusercontent.com/11ac29447aef1249b876466acf1eafba612642550eba8799bbecc1897a22943a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&amp;logo=gmail" style="max-width: 100%;"></a>
 </p>
 
-![imi909's GitHub stats](https://github-readme-stats.vercel.app/api?username=imi909&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FattahWG&theme=radical)
 
