@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fattah Widjaya Gandhi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fattahwg&label=Profile%20views&color=0e75b6&style=flat" alt="fattahwg" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fattahwg" alt="fattahwg" /></a> </p>
 <p align="left">
 </p>
@@ -23,4 +21,4 @@
      <a href="https://www.instagram.com/kulofattah/" rel="nofollow"><img src="https://camo.githubusercontent.com/0dade5fc0e455d497a64872047f812234653984f3b8ba417981e293c92e014e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d696e7374616772616d2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d" data-canonical-src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&amp;logo=instagram" style="max-width: 100%;"></a>
    <a href="mailto: off.fattah@gmail.com"><img src="https://camo.githubusercontent.com/11ac29447aef1249b876466acf1eafba612642550eba8799bbecc1897a22943a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&amp;logo=gmail" style="max-width: 100%;"></a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fattahwg&label=Profile%20views&color=0e75b6&style=flat" alt="fattahwg" /> </p>
