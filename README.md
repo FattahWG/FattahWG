@@ -17,7 +17,6 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fattahwg&show_icons=true&layout=compact&theme=tokyonight" alt="fattahwg" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fattahwg&show_icons=true&theme=tokyonight" alt="fattahwg" /></p>
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fattahwg&theme=tokyonight" alt="fattahwg" /></p>
+
 
 
