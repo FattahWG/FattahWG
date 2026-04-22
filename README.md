@@ -1,4 +1,58 @@
-<h1 align="center">Hi 👋, I'm Fattah Widjaya Gandhi </h1>
+# 👋 Fattah Widjaya
+
+Quality Assurance Tester (IT) • Roblox Developer • AI-Assisted Creator
+
+---
+
+## 💼 Professional Background
+I work as a Quality Assurance Tester in the IT field, focusing on validating systems,
+ensuring software quality, and maintaining reliable user experiences.
+
+---
+
+## 🧪 What I Do (QA)
+- Functional & scenario-based testing  
+- Test case design & execution (SIT / UAT)  
+- Bug identification & reporting  
+- Ensuring system reliability and consistency  
+
+---
+
+## 🎮 Side Projects (Roblox Development)
+Outside of my professional work, I build Roblox experiences focused on:
+- Environment design (horror / exploration)  
+- Gameplay systems (interaction, carry system, UI flow)  
+- AI-assisted asset creation  
+
+---
+
+## 🤖 AI Workflow
+I use AI tools to accelerate development:
+Prompt → Generate → Refine → Implement (Roblox Studio)
+
+---
+
+## 🚀 Current Focus
+- Working as QA Tester on Jakarta
+- Improving gameplay systems & interaction design  
+- Exploring AI-assisted development workflows  
+- Expanding personal portfolio projects  
+
+---
+
+## 🌐 Portfolio
+👉 https://fattahstudio.github.io/
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/FattahWG
+- Linkdln: https://www.linkedin.com/in/fattahwg  
+- Roblox: https://www.roblox.com/users/8192435910/profile
+
+---
+
+> Bridging structured testing with creative development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fattahwg&label=Profile%20views&color=0e75b6&style=flat" alt="fattahwg" style="max-width: 100%;"/> </p>
 <p dir="auto">
@@ -7,7 +61,6 @@
 </p>
 
 <p>Im Quality Assurance Engineer from <a href="https://academy.alterra.id/">Alterra Academy! </a> :dart: </p>
-
 
 # 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
