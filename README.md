@@ -1,75 +1,65 @@
-# 👋 Fattah Widjaya
-
-Quality Assurance Tester (IT) • Roblox Developer • AI-Assisted Creator
-
----
-
-## 💼 Professional Background
-I work as a Quality Assurance Tester in the IT field, focusing on validating systems,
-ensuring software quality, and maintaining reliable user experiences.
-
----
-
-## 🧪 What I Do (QA)
-- Functional & scenario-based testing  
-- Test case design & execution (SIT / UAT)  
-- Bug identification & reporting  
-- Ensuring system reliability and consistency  
-
----
-
-## 🎮 Side Projects (Roblox Development)
-Outside of my professional work, I build Roblox experiences focused on:
-- Environment design (horror / exploration)  
-- Gameplay systems (interaction, carry system, UI flow)  
-- AI-assisted asset creation  
-
----
-
-## 🤖 AI Workflow
-I use AI tools to accelerate development:
-Prompt → Generate → Refine → Implement (Roblox Studio)
-
----
-
-## 🚀 Current Focus
-- Working as QA Tester on Jakarta
-- Improving gameplay systems & interaction design  
-- Exploring AI-assisted development workflows  
-- Expanding personal portfolio projects  
-
----
-
-## 🌐 Portfolio
-👉 https://fattahstudio.github.io/
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/FattahWG
-- Linkdln: https://www.linkedin.com/in/fattahwg  
-- Roblox: https://www.roblox.com/users/8192435910/profile
-
----
-
-> Bridging structured testing with creative development.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fattahwg&label=Profile%20views&color=0e75b6&style=flat" alt="fattahwg" style="max-width: 100%;"/> </p>
-<p dir="auto">
-<a href="https://www.linkedin.com/in/fattahwg" rel="nofollow"><img src="https://camo.githubusercontent.com/59c94ca047290f388844310b5626384fec028f659f627e6730977203f9894976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" data-canonical-src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&amp;logo=linkedin" style="max-width: 100%;"></a>
-<a href="mailto: off.fattah@gmail.com"><img src="https://camo.githubusercontent.com/11ac29447aef1249b876466acf1eafba612642550eba8799bbecc1897a22943a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&amp;logo=gmail" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Fattah Widjaya Gandhi. SQA Engineer, QA Automation, Web, Mobile and API Testing.">
 </p>
 
-<p>Im Quality Assurance Engineer from <a href="https://academy.alterra.id/">Alterra Academy! </a> :dart: </p>
-
-# 💻 Tech Stack:
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<h2 dir="auto"><a id="user-content-connect" class="anchor" aria-hidden="true" href="#connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h2>
-<p dir="auto">
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fattahwg&show_icons=true&layout=compact&theme=tokyonight" alt="fattahwg" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fattahwg&show_icons=true&theme=tokyonight" alt="fattahwg" /></p>
+  <a href="https://fattahwg.github.io/"><img src="https://img.shields.io/badge/Portfolio-fattahwg.github.io-7fd1bd?style=flat-square&labelColor=1e2228" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/fattahwg/"><img src="https://img.shields.io/badge/LinkedIn-fattahwg-7fd1bd?style=flat-square&labelColor=1e2228" alt="LinkedIn"></a>
+  <a href="mailto:off.fattah@gmail.com"><img src="https://img.shields.io/badge/Email-off.fattah%40gmail.com-7fd1bd?style=flat-square&labelColor=1e2228" alt="Email"></a>
+</p>
 
+## About
 
+I'm an SQA Engineer in Jakarta. I test web and mobile applications: functional, regression, SIT, UAT, and API
+testing. I trained as a QA engineer at [Alterra Academy](https://academy.alterra.id/), and now I'm moving from
+manual QA toward automation with Playwright and Bruno.
 
+On the side, I'm Studio Director at Lawak Studio, where I lead small Roblox game projects.
+
+## What I do
+
+**Quality engineering (main career)**
+
+- Own QA on projects as the independent tester: test case design, SIT, UAT, and regression cycles, bug reporting,
+  and coordination with development and business teams.
+- Test web and mobile applications by hand, and test APIs directly.
+- Build and maintain UI test automation with Playwright, and API automation with Bruno.
+
+**AI-assisted QA, used with care**
+
+I use AI tools such as Claude Code for repetitive QA work: drafting test cases and automation scripts, and
+summarizing test results. I review every output, and the test decisions stay with me.
+
+## Featured work
+
+| Project | What it shows |
+| --- | --- |
+| [Portfolio](https://fattahwg.github.io/) | My site, with a recorded Playwright smoke test of the site itself on the [Experience](https://fattahwg.github.io/experience) page. |
+| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | A web automation preset with Playwright and Bruno CLI: setup, test case structure, reporting, and rules for AI-assisted work. |
+
+<p align="center">
+  <a href="https://fattahwg.github.io/experience">
+    <img src="assets/playwright-run.gif" width="720" alt="A Playwright smoke test of the portfolio: five steps run in Microsoft Edge and all pass.">
+  </a>
+  <br>
+  <sub>A real Playwright run: five smoke-test steps on my portfolio, all passing.</sub>
+</p>
+
+## Toolbox
+
+- **Testing and automation:** Playwright, Bruno, JMeter, Jira, Postman
+- **Also used:** Java, Python
+- **Game development:** Roblox Studio
+
+## Side project: Lawak Studio
+
+As Studio Director, I start game ideas, set the direction and the player experience, plan features, and
+coordinate our programmers, level designers, and 3D artists. I also work hands-on with gameplay systems and UI
+flow, such as interaction and carry systems. Our games are published under the Lawak Gamehouse community on Roblox:
+
+- [Become a Ghost Expedition](https://www.roblox.com/games/106752039897178)
+- [Lawak Obstacle](https://www.roblox.com/games/80126484885228)
+- [Gunung Lawak](https://www.roblox.com/games/85931900901290)
+- [Desa [Voice Chat]](https://www.roblox.com/games/76972443812143)
+
+Community: [Lawak Gamehouse on Roblox](https://www.roblox.com/communities/510724970/Lawak-Gamehouse)
