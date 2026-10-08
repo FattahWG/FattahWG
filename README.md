@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Fattah Widjaya Gandhi. SQA Engineer, QA Automation, Web, Mobile and API Testing.">
+  <img src="assets/header.svg" width="100%" alt="Fattah Widjaya Gandhi. QA Software Engineer, QA Automation, Web, Mobile and API Testing.">
 </p>
 
 <p align="center">
@@ -10,8 +10,9 @@
 
 ## About
 
-I'm an SQA Engineer in Jakarta. I test web and mobile applications: functional, regression, SIT, UAT, and API
-testing. I'm moving from manual QA toward automation with Playwright and Bruno.
+I'm a QA Software Engineer in Jakarta with 2.5+ years of testing banking, insurance, and enterprise applications:
+SIT, UAT, regression, API, and performance testing. I've automated with UFT One at work and with Selenium, Serenity BDD,
+Rest Assured, and Appium in Java, and now I build with Playwright and Bruno in CI.
 
 On the side, I'm Studio Director at Lawak Studio, where I lead small Roblox game projects.
 
@@ -19,10 +20,10 @@ On the side, I'm Studio Director at Lawak Studio, where I lead small Roblox game
 
 **Quality engineering (main career)**
 
-- Own QA on projects as the independent tester: test case design, SIT, UAT, and regression cycles, bug reporting,
-  and coordination with development and business teams.
-- Test web and mobile applications by hand, and test APIs directly.
-- Build and maintain UI test automation with Playwright, and API automation with Bruno.
+- Own QA on projects as the independent tester: test planning, test case design, SIT, UAT, regression, and defect
+  validation, together with development and business teams.
+- Test web and mobile applications, test APIs directly, and run performance tests with JMeter.
+- Build and maintain test automation: UFT One at work, and Playwright and Bruno in my public suite.
 
 **Working alongside AI: Claude Code and GitHub Copilot**
 
@@ -45,7 +46,13 @@ My [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset
 | --- | --- |
 | [Portfolio test suite](https://github.com/FattahWG/fattahWG.github.io/tree/main/tests) | Playwright end-to-end, axe accessibility, and phone-layout tests, plus a Bruno HTTP collection. GitHub Actions runs them on every push, and a failing test blocks the deploy. Reports: [Playwright](https://fattahwg.github.io/qa-report/), [Bruno](https://fattahwg.github.io/qa-report/api). |
 | [Portfolio](https://fattahwg.github.io/) | The site under test. Built with Astro, with clean URLs and a recorded run of the smoke test. |
-| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | My starting kit for web automation with Playwright and Bruno CLI: setup, test case structure, reporting, and the rules AI agents follow. |
+| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | A workflow preset, not a framework: setup guides, test case structure, reporting conventions, and the rules AI agents follow. |
+
+**Earlier automation (Alterra Academy QA bootcamp, Java):**
+[REST API tests with Serenity BDD and Rest Assured](https://github.com/FattahWG/ALTA-Serenity-Rest-QE7-FattahWidjayaGandhi) ·
+[Android tests with Appium](https://github.com/FattahWG/MobileAutomation-ALTA) ·
+[Pet Adopter capstone, API and web](https://github.com/FattahWG/Petadopter-QE7-ALTA) ·
+[Web tests with Selenium and Cucumber](https://github.com/FattahWG/Automation-on-website-saucedemo)
 
 <p align="center">
   <a href="https://fattahwg.github.io/experience">
@@ -57,8 +64,9 @@ My [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset
 
 ## Toolbox
 
-- **Testing and automation:** Playwright, Bruno, JMeter, Jira
-- **Languages:** Python, Java, Luau (Roblox's Lua)
+- **Automation:** Playwright, Bruno, UFT One, Selenium, Serenity BDD, Cucumber, Rest Assured, Appium
+- **Performance and tools:** JMeter, Grafana, Jira, Postman, Swagger, Git, GitHub Actions
+- **Languages:** Java, Python, SQL, Luau (Roblox's Lua)
 - **AI pair tools:** Claude Code, GitHub Copilot
 - **Game development:** Roblox Studio
 
