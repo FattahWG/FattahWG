@@ -11,8 +11,7 @@
 ## About
 
 I'm an SQA Engineer in Jakarta. I test web and mobile applications: functional, regression, SIT, UAT, and API
-testing. I trained as a QA engineer at [Alterra Academy](https://academy.alterra.id/), and now I'm moving from
-manual QA toward automation with Playwright and Bruno.
+testing. I'm moving from manual QA toward automation with Playwright and Bruno.
 
 On the side, I'm Studio Director at Lawak Studio, where I lead small Roblox game projects.
 
@@ -25,17 +24,28 @@ On the side, I'm Studio Director at Lawak Studio, where I lead small Roblox game
 - Test web and mobile applications by hand, and test APIs directly.
 - Build and maintain UI test automation with Playwright, and API automation with Bruno.
 
-**AI-assisted QA, used with care**
+**Working alongside AI: Claude Code and GitHub Copilot**
 
-I use AI tools such as Claude Code for repetitive QA work: drafting test cases and automation scripts, and
-summarizing test results. I review every output, and the test decisions stay with me.
+I don't hand my testing over to AI. I set up how the agents work with me, and they speed up the repetitive parts:
+
+- **I write the rules.** Each project gets instructions for the agent: which environments it may touch, which data
+  it may change, how to name test cases, and when it must stop and ask me.
+- **The test case is the source of truth.** An agent may fix a selector or a wait, but it may never change an
+  expected result just to make a test pass. If the app differs from the test case, that's a finding for me to report.
+- **I review every change.** Agents draft test cases, Playwright and Bruno scripts, and run summaries. I read the
+  diff, run the tests, and make the final call.
+
+My [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) shows these rules in practice.
 
 ## Featured work
 
+[![Test and deploy](https://github.com/FattahWG/fattahWG.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/FattahWG/fattahWG.github.io/actions/workflows/deploy.yml)
+
 | Project | What it shows |
 | --- | --- |
-| [Portfolio](https://fattahwg.github.io/) | My site, with a recorded Playwright smoke test of the site itself on the [Experience](https://fattahwg.github.io/experience) page. |
-| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | A web automation preset with Playwright and Bruno CLI: setup, test case structure, reporting, and rules for AI-assisted work. |
+| [Portfolio test suite](https://github.com/FattahWG/fattahWG.github.io/tree/main/tests) | Playwright end-to-end, axe accessibility, and phone-layout tests, plus a Bruno HTTP collection. GitHub Actions runs them on every push, and a failing test blocks the deploy. Reports: [Playwright](https://fattahwg.github.io/qa-report/), [Bruno](https://fattahwg.github.io/qa-report/api). |
+| [Portfolio](https://fattahwg.github.io/) | The site under test. Built with Astro, with clean URLs and a recorded run of the smoke test. |
+| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | My starting kit for web automation with Playwright and Bruno CLI: setup, test case structure, reporting, and the rules AI agents follow. |
 
 <p align="center">
   <a href="https://fattahwg.github.io/experience">
@@ -47,8 +57,9 @@ summarizing test results. I review every output, and the test decisions stay wit
 
 ## Toolbox
 
-- **Testing and automation:** Playwright, Bruno, JMeter, Jira, Postman
-- **Also used:** Java, Python
+- **Testing and automation:** Playwright, Bruno, JMeter, Jira
+- **Languages:** Python, Java, Luau (Roblox's Lua)
+- **AI pair tools:** Claude Code, GitHub Copilot
 - **Game development:** Roblox Studio
 
 ## Side project: Lawak Studio
