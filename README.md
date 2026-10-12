@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://fattahwg.github.io/"><img src="https://img.shields.io/badge/Portfolio-fattahwg.github.io-7fd1bd?style=flat-square&labelColor=1e2228" alt="Portfolio"></a>
+  <a href="https://fattahwg.github.io/Automations-Test-Preset/"><img src="https://img.shields.io/badge/Live_test_demo-Lawak_Store-7fd1bd?style=flat-square&labelColor=1e2228" alt="Live test demo: Lawak Store"></a>
   <a href="https://www.linkedin.com/in/fattahwg/"><img src="https://img.shields.io/badge/LinkedIn-fattahwg-7fd1bd?style=flat-square&labelColor=1e2228" alt="LinkedIn"></a>
   <a href="mailto:off.fattah@gmail.com"><img src="https://img.shields.io/badge/Email-off.fattah%40gmail.com-7fd1bd?style=flat-square&labelColor=1e2228" alt="Email"></a>
 </p>
@@ -40,13 +41,20 @@ My [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset
 
 ## Featured work
 
+**Here is my test sample: [Lawak Store test demo](https://fattahwg.github.io/Automations-Test-Preset/).**
+A demo shop with an admin panel, tested by 41 Playwright UI cases and 9 Bruno CLI API cases. Pick a Smoke,
+Regression, or Full Cycle run by phase, sprint, and module on the
+[test dashboard](https://fattahwg.github.io/Automations-Test-Preset/dashboard/), then open the Word evidence and the
+Excel test cases of each run. Sign in to the [store](https://fattahwg.github.io/Automations-Test-Preset/store/) with
+`login@demo.com` / `Logindemo123`.
+
 [![Test and deploy](https://github.com/FattahWG/fattahWG.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/FattahWG/fattahWG.github.io/actions/workflows/deploy.yml)
 
 | Project | What it shows |
 | --- | --- |
 | [Portfolio test suite](https://github.com/FattahWG/fattahWG.github.io/tree/main/tests) | Playwright end-to-end, axe accessibility, and phone-layout tests, plus a Bruno HTTP collection. GitHub Actions runs them on every push, and a failing test blocks the deploy. Reports: [Playwright](https://fattahwg.github.io/qa-report/), [Bruno](https://fattahwg.github.io/qa-report/api). |
 | [Portfolio](https://fattahwg.github.io/) | The site under test. Built with Astro, with clean URLs and a recorded run of the smoke test. |
-| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | A workflow preset, not a framework: setup guides, test case structure, reporting conventions, and the rules AI agents follow. |
+| [Automations Test Preset](https://github.com/FattahWG/Automations-Test-Preset) | Setup guides, test case structure, reporting conventions, and agent rules, applied in the Lawak Store demo: one test case source, one run command, and Word, Excel, and dashboard output per run. |
 
 **Earlier automation (Alterra Academy QA bootcamp, Java):**
 [REST API tests with Serenity BDD and Rest Assured](https://github.com/FattahWG/ALTA-Serenity-Rest-QE7-FattahWidjayaGandhi) ·
